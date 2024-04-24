@@ -1,0 +1,3 @@
+//githubにデプロイ時無視するファイル
+.env
+/node_modules
